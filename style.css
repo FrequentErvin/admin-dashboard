@@ -218,6 +218,7 @@ input[type=text]:focus {
     outline: none;
 }
 .search{
+    /* background-image: linear-gradient(170deg,#f3e8ff, #c38cf7); */
     padding: 0 20px;
   }
 .trending{
