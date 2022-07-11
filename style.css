@@ -206,4 +206,5 @@ input[type=text]:focus {
 }
 .notification h2{
     font-weight: 700;
+    margin-right: 40px;
 }
